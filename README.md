@@ -29,10 +29,6 @@ Mientra he estado estudiando he estado trabajando de manera paralela en un par d
       <a href="/images/myDesign/Logo-RocketWhale.png"></a>
       <image src="/images/myDesign/Logo-RocketWhale.png"></image>
     </td>
-    <td>
-      <a href="/images/myDesign/Robert-DW.png"></a>
-      <image src="/images/myDesign/Robert-DW.png"></image>
-    </td>
   </tr>
   
 </table>
