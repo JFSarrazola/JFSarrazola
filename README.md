@@ -8,30 +8,9 @@ Realmente me apasiona el mundo del desarrollo web y me gusta aprender más cada 
 Mientra he estado estudiando he estado trabajando de manera paralela en un par de proyectos en los que voy aplicando mis aprendisajes:
 
 + #### Juego de tribia
-  [![enlace naranja](/images/profile/enlace_naranja.png)](https://github.com/JFSarrazola/TribiaGame)
+  [![enlace naranja](/images/profile/enlace_naranja.png)](https://jfsarrazola.github.io/TribiaGame/)
 + #### Pagina para guardar y gestionar una lista de direcciones o rutas (pensada principalmene para domiciliarios)
-  [![enlace azul](/images/profile/enlace_azul.png)](https://github.com/JFSarrazola/app-de-direcciones/tree/develop)
-
-### Algunos diseños que he creado 🎨
-<table>
-  <tr>
-    <td>
-      <a href="/images/myDesign/jason-St.png"></a>
-      <image src="/images/myDesign/jason-St.png"></image>
-    </td>
-    <td>
-      <a href="/images/myDesign/Robert-Dw.png"></a>
-      <image src="/images/myDesign/Robert-Dw.png"></image>
-    </td>
-  </tr>
-    <tr>
-    <td>
-      <a href="/images/myDesign/Logo-RocketWhale.png"></a>
-      <image src="/images/myDesign/Logo-RocketWhale.png"></image>
-    </td>
-  </tr>
-  
-</table>
+  [![enlace azul](/images/profile/enlace_azul.png)]( https://jfsarrazola.github.io/app-de-direcciones/)
 
  
 
